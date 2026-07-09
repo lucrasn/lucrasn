@@ -4,9 +4,7 @@
 
 ## Sobre mim
 
-Graduando em Ciência da Computação pela Universidade Estadual da Paraíba (UEPB) e em Gestão da Segurança e Defesa Cibernética pelo Centro Universitário Internacional (UNINTER). Tenho experiência em pesquisa acadêmica por meio de iniciação científica, além de vivência prática com o desenvolvimento de sistemas e implementação de estruturas de dados.
-Meus principais interesses de estudo e atuação abrangem Cibersegurança, Redes de Computadores e Bancos de Dados — com foco especial na aplicação de requisitos de segurança e defesa nessas infraestruturas. Adicionalmente, possuo forte interesse na área de Testes de Software.
-Minha base de desenvolvimento é fundamentada principalmente em Java e Python, aliada ao uso de ambientes Linux e à aplicação de fluxos seguros de versionamento de código. Busco oportunidades para aplicar e expandir meus conhecimentos na área de Segurança da Informação e Redes.
+Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB) e curso, em paralelo, Gestão da Cibersegurança pela UNINTER. Sou bolsista de Iniciação Científica do CNPq na UFRN, onde pesquiso sistemas de recomendação aplicados à etnoeducação, e tenho um artigo publicado no XLV Congresso da Sociedade Brasileira de Computação (WICS 2025/SBC).
 
 <details>
 <summary>🇺🇸 Read in English</summary>
