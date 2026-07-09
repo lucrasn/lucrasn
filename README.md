@@ -44,7 +44,3 @@ I'm a Computer Science student at the State University of Paraíba (UEPB), also 
 ![Antigravity](https://img.shields.io/badge/Antigravity-8E75B2?style=for-the-badge)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
-
-## 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucrasn&show_icons=true&theme=default&hide_border=true)
