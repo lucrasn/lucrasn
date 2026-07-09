@@ -18,7 +18,7 @@ I'm a Computer Science student at the State University of Paraíba (UEPB), also 
 
 - 💻 Bacharelado em Ciência da Computação — UEPB
 - 🔐 Gestão da Cibersegurança — UNINTER
-- 🔬 Bolsista PIBIC/CNPq — UFRN (sistemas de recomendação aplicados à etnoeducação)
+- 🔬 Bolsista PIBIC/CNPq — UEPB (sistemas de recomendação aplicados à etnoeducação)
 - 📄 Artigo publicado — XLV CSBC (WICS 2025/SBC)
 
 ## 🔗 Links
