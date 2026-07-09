@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB) e curso, em paralelo, Gestão da Cibersegurança pela UNINTER. Sou bolsista de Iniciação Científica do CNPq na UFRN, onde pesquiso sistemas de recomendação aplicados à etnoeducação, e tenho um artigo publicado no XLV Congresso da Sociedade Brasileira de Computação (WICS 2025/SBC).
+Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB) e curso, em paralelo, Gestão da Cibersegurança pela UNINTER. Sou bolsista de Iniciação Científica do CNPq na UEPB, onde pesquiso sistemas de recomendação aplicados à etnoeducação, e tenho um artigo publicado no XLV Congresso da Sociedade Brasileira de Computação (WICS 2025/SBC).
 
 <details>
 <summary>🇺🇸 Read in English</summary>
